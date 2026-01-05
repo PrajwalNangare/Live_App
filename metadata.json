@@ -1,0 +1,8 @@
+{
+  "name": "Prajwal Nangare Ventures",
+  "short_name": "Prajwal Shop",
+  "description": "Buy electronics, furniture, and premium accessories for just ₹1. Official app of Prajwal Nangare Ventures with secure UPI payments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
